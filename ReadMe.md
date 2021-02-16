@@ -17,3 +17,4 @@ API 제공 홈페이지에서 MY API KEY 에 접근하시면 내 API 키를 가�
 ![image](https://img.shields.io/badge/-React%20Native-blue)
 ![image](https://img.shields.io/badge/-Expo-black)
 ![image](https://img.shields.io/badge/-Axios-lightgrey)
+![image](https://img.shields.io/badge/-prop--types-blue)
