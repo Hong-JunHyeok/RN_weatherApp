@@ -15,7 +15,8 @@ API 제공 홈페이지에서 MY API KEY 에 접근하시면 내 API 키를 가�
 # 프로젝트 모습
 
 ![image](https://user-images.githubusercontent.com/48292190/108060425-31efb680-709a-11eb-9cb9-fc9c399ce456.png)
-<em>온도가 같은 이유는 같은 날에 테스트용으로 찍어서...</em>
+<br />
+<strike>온도가 같은 이유는 같은 날에 테스트용으로 찍어서...</strike>
 
 # 기술 스택
 
