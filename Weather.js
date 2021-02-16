@@ -53,21 +53,21 @@ function Weather({ temp, condition }) {
     return (
         <LinearGradient
             // Button Linear Gradient
-            colors={weatherOptions[condition].backColor}
+            colors={weatherOptions["Snow"].backColor}
             style={styles.container}
         >
             <StatusBar barStyle="light-content" />
             <View style={styles.halfContainer}>
                 <MaterialCommunityIcons
-                    name={weatherOptions[condition].iconName}
+                    name={weatherOptions["Snow"].iconName}
                     size={96}
                     color="white"
                 />
                 <Text style={styles.temp}>{temp}</Text>
             </View>
             <View style={styles.halfContainer}>
-                <Text style={styles.title}>{weatherOptions[condition].title}</Text>
-                <Text style={styles.subTitle}>{weatherOptions[condition].subTitle}</Text>
+                <Text style={styles.title}>{weatherOptions["Snow"].title}</Text>
+                <Text style={styles.subTitle}>{weatherOptions["Snow"].subTitle}</Text>
             </View>
         </LinearGradient>
     )
